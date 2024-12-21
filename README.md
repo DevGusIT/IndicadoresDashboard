@@ -4,7 +4,8 @@
 
 Este é um sistema de **Dashboard de Dados** interativo, onde o usuário pode inserir informações como número de vendas e novos usuários, e visualizar gráficos gerados dinamicamente. O projeto foi desenvolvido para fornecer uma interface amigável e estética moderna.
 
-![Captura de tela 2024-09-21 173238](https://github.com/user-attachments/assets/5f50a40b-98af-470c-901d-5eec90a92313)
+![Captura de tela 2024-12-16 211150](https://github.com/user-attachments/assets/93abc740-9ce4-40db-8ca3-627d16df75b4)
+
 
 
 ---
@@ -28,24 +29,6 @@ Este é um sistema de **Dashboard de Dados** interativo, onde o usuário pode in
 </div>
 
 ---
-
-## 🎨 Layout e Design
-
-- **Paleta de Cores**: Tons escuros com toques de verde e ícones interativos.
-- **Efeitos**: Bordas arredondadas e transições suaves em botões e inputs.
-- **Gráficos Dinâmicos**: Gráficos que se ajustam automaticamente aos dados inseridos pelo usuário.
-
----
-
-## 🖥️ Como Rodar o Projeto Localmente
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
-```
-2. Abra o arquivo index.html no navegador para vizualizar o dashboard.
 
 ## 👨‍💻 Desenvolvido por
 
